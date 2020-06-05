@@ -1,5 +1,12 @@
 {
   "allmovie" : [
+    {
+  "title" : "Scooby-Doo Collection",
+  "link" : "https://raw.githubusercontent.com/XCProject19/ScoobyDoo/master/",
+  "cover" : "https://1.bp.blogspot.com/-YefQcL6B2Lo/XtqK7UFzAlI/AAAAAAAAFEQ/OwE8zhFqxk0z373sAUiD-Oi0H2bsJCeowCLcBGAsYHQ/s300/scoobydoo.jpg",
+  "tag" : ""
+  }
+   ,
    {
   "title" : "မြန်မာနတ်သမီးပုံပြင်များ",
   "link" : "https://raw.githubusercontent.com/XCProject19/mfairytales-collection/master/",
